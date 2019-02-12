@@ -842,7 +842,7 @@ form label {
 #fh5co-counter .display-tc h1,
 .fh5co-cover .display-tc h1 {
   margin-bottom: 0px;
-  font-size: 75px;
+  font-size: 50px;
   line-height: 1.5;
   font-family: 'Times New Roman', Times, serif;
 }
@@ -942,7 +942,7 @@ form label {
   display: inline-block;
   width: 100px;
   height: 100px;
-  background: rgba(241, 78, 149, 0.8);
+  background:rgba(14, 152, 187, 0.678);
   margin: 0 4px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1066,7 +1066,7 @@ form label {
 }
 .couple-half h3 {
   font-family: 'Times New Roman', Times, serif;
-  color: #F14E95;
+  color: rgb(241, 239, 240);
   font-size: 30px;
 }
 .couple-half .groom, .couple-half .bride {
@@ -1177,12 +1177,12 @@ form label {
   margin-bottom: 2em;
 }
 .fh5co-heading h2 {
-  font-size: 60px;
+  font-size: 50px;
   margin-bottom: 10px;
   line-height: 1.5;
   font-weight: bold;
-  color: #F14E95;
-  font-family: "Sacramento", Arial, serif;
+  color: rgba(10, 10, 10, 0.281);
+  font-family: 'Times New Roman', Times, serif;
 }
 @media screen and (max-width: 768px) {
   .fh5co-heading h2 {
